@@ -1,0 +1,50 @@
+Jika kita suka mendownload sample code dari tutorial pemerograman maka biasanya saat kita mendownload, link akan diredirect ke github. Saat kita mau mencoba software open source seperti Twitter Bootstrap, saat download pun kita akan di redirect ke github, Jadi github itu apa sih? Github adalah  software Hosting untuk proyek open source  yang menggunakan Tool  System revisi kontrol Git.  Jadi Git adalah tool untuk melakukan revisi code, sedangkan github adalah webhostingnya. Mudahnya Github adalah Webhosting untuk proyek proyek software seperti Google code atau sourceforge.net.  Dalam bahasa gaul, Github adalah jejaring social untuk software developer.
+
+Yang membedakan Github dari Project hosting yang lain bisa kita lihat di bawah ini
+
+    Github menggunakan Git sebagai tool utama dalam merevisi code.
+    Github menyediakan free hosting untuk proyek open source, namun Github juga menawarkan  hosting berbayar untuk proyek perusahaan atau pribadi yang sifatnya privat.
+    Github ditargetkan untuk para developer yang bekerja secara tim dan tidak disatu tempat.
+    Github mempunyai fitur Social seperti  Twitter seperti follow atau favorit (Star).
+    Github mendukung semua bahasa pemrograman, anda bebas memakai bahasa dan tool yang biasa anda pakai.
+
+Beberapa fitur Social di Github:
+    Github user profile.
+    Follow, Kita bisa memfollow profil progammaer lain di github.
+    Star, fungsinya sama dengan Bookmark.
+    Watch, memonitor repository tertentu. Setiap ada perubahan di Repo, maka kita akan dikirim notifikasi.
+    Fork, mengcopy keseluruhan code repository ke repo kita sendiri.
+
+Github Profile
+Sama seperti Twitter, Github juga mempunyai profil. 
+Profil berisi foto, jumlah repo yang dimiliki, jumlah follower, jumlah user yang kita follow dan Star 
+(jumlah proyek yang kita beri tanda bintang).
+
+Fitur Pencarian
+Github mempunyai lebih dari 10 juta repo sofware. 
+Nah banyak banget kan? Jika anda ingin mencari proyek open source tertentu, gunakan fitur pencarian, 
+Hasil pencarian tampak seperti di gambar 2 diatas. 
+Untuk memperkecil  hasil pencarian bisa di filter  berdasarkan Repo, code, issue atau nama user atau bahasa pemrograman. 
+Hasil pencarian bisa diurutkan berdasarkan jumlah bintang tau jumlah “fork”. 
+Biasanya makin banyak bintangnya, makin berkualitas source codenya.
+
+Bagian Statistik
+Bagian pertama adalah statistik, kia bisa melihat jumlah Watch, star dan fork dibagian atas halaman. 
+Bootstrap adalah salahsatu proyek paling populer di github, 
+maka jangan heran jika ada lebih dari 63 ribu user yang memberi tanda bintang.
+
+Bagian Code 
+Bagian utama dari struktur proyek ini adalah code itu sendiri. 
+Kode ini juga berisi penjelasan kapan dan apa file terakhir yang diedit berserta penjelasan perubahan apayang terjadi.
+
+Bagian Clone dan Download
+Clone in desktop  di pakai untuk mengkopi source code proyek terserbut ke komputer kita , 
+namun komputer kita harus sudah terinstall Github for Windows atau Mac. 
+Bagian paling penting dan paling sering dipakai adalah menu DOWNLOAD.  
+jika anda ingin langsung mencoba code di komputer , cukup klik download, 
+maka source code otomatis akan dizip dan diunduh ke kompuer anda.
+
+
+
+Best Regards.
+
