@@ -1,0 +1,180 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"[]>
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en">
+<head>
+    <!--
+    Created by Artisteer v3.0.0.39952
+    Base template (without user's data) checked by http://validator.w3.org : "This page is valid XHTML 1.0 Transitional"
+    -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>Pw LuPp LePp</title>
+    <meta name="description" content="Description" />
+    <meta name="keywords" content="Keywords" />
+
+
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" />
+    <!--[if IE 6]><link rel="stylesheet" href="style.ie6.css" type="text/css" media="screen" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" href="style.ie7.css" type="text/css" media="screen" /><![endif]-->
+
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+<div id="art-main">
+<div class="art-nav">
+	<div class="art-nav-l"></div>
+	<div class="art-nav-r"></div>
+<div class="art-nav-outer">
+<div class="art-nav-wrapper">
+<div class="art-nav-inner">
+	<ul class="art-hmenu">
+		<li>
+			<a href="./home.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Home</span></a>
+		</li>	
+		
+		<li>
+			<a href="./profile.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Profile</span></a>
+		</li>	
+		
+		<li>
+			<a href="./artikel.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Artikel</span></a>
+		</li>	
+
+		<li>
+			<a href="galeri/galeri.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Galeri</span></a>
+		</li>
+	</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="cleared reset-box"></div>
+<div class="art-header">
+        <div class="art-header-clip">
+        <div class="art-header-center">
+            <div class="art-header-png"></div>
+            <div class="art-header-jpeg"></div>
+        </div>
+        </div>
+    <div class="art-header-wrapper">
+    <div class="art-header-inner">
+        <div class="art-logo">
+                 <h1 class="art-logo-name"></h1>
+
+
+</div>
+
+</div>
+</h2>
+                </div>
+    </div>
+    </div>
+    </div>
+    <div class="cleared reset-box"></div>
+    <div class="art-sheet">
+        <div class="art-sheet-tl"></div>
+        <div class="art-sheet-tr"></div>
+        <div class="art-sheet-bl"></div>
+        <div class="art-sheet-br"></div>
+        <div class="art-sheet-tc"></div>
+        <div class="art-sheet-bc"></div>
+        <div class="art-sheet-cl"></div>
+        <div class="art-sheet-cr"></div>
+        <div class="art-sheet-cc"></div>
+        <div class="art-sheet-body">
+            <div class="art-content-layout">
+                <div class="art-content-layout-row">
+                    <div class="art-layout-cell art-sidebar1">
+<div class="art-block">
+    <div class="art-block-tl"></div>
+    <div class="art-block-tr"></div>
+    <div class="art-block-bl"></div>
+    <div class="art-block-br"></div>
+    <div class="art-block-tc"></div>
+    <div class="art-block-bc"></div>
+    <div class="art-block-cl"></div>
+    <div class="art-block-cr"></div>
+    <div class="art-block-cc"></div>
+    <div class="art-block-body">
+                <div class="art-blockheader">
+                    <h3 class="t">cewek cewek keci</h3>
+                </div>
+                <div class="art-blockcontent">
+                    <div class="art-blockcontent-body">
+<p><font face="Papyrus" font size=4 font color="#FF00FF"NPM &nbsp;&nbsp;: 200, 207, 224, 228, 233</font></p>
+<p><font face="Papyrus" font size=4 font color="#FF00FF">Nama &nbsp;&nbsp;: Melati, Mayda, Nirma, Atika, Purwanti</font></p>
+<p><font face="Papyrus" font size=4 font color="#FF00FF">Kelas	&nbsp;&nbsp;&nbsp;: E 2011</font></p>              
+                                		<div class="cleared"></div>
+                    </div>
+                </div>
+		<div class="cleared"></div>
+    </div>
+</div>
+
+                      <div class="cleared"></div>
+                    </div>
+                    <div class="art-layout-cell art-content">
+<div class="art-post">
+    <div class="art-post-body">
+<div class="art-post-inner art-article">
+                                <h2 class="art-postheader">
+                                </h2>
+                <div class="cleared"></div>
+                                <div class="art-postcontent">
+<p><font face="Segoe Print" font color="#E6E6E6">assalamualaikum, perkenalkan kami cewek-cewek keci dari kelas E 2011 </font></p>
+<p><font face="Segoe Print" font color="#E6E6E6">Kami pecinta drama korea, alasan kami suka drama korea, karena ceritanya itu romantis dan pemainnya cute</font></p>
+<p><font face="Segoe Print" font color="#E6E6E6">Selain pecinta dramanya, kami juga suka musiknya, hampir setiap aktivitas kami, terutama saya pasti dengerin lagu-lagu Korea. Musisi yang kami suka yaitu<font color="00FFFF">CN BLUE</font></p> 
+                </div>
+                <div class="cleared"></div>
+                </div>
+
+		<div class="cleared"></div>
+    </div>
+</div>
+
+                      <div class="cleared"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="cleared"></div>
+            <div class="art-footer">
+                <div class="art-footer-t"></div>
+                <div class="art-footer-l"></div>
+                <div class="art-footer-b"></div>
+                <div class="art-footer-r"></div>
+                <div class="art-footer-body">
+                    <a href="#" class="art-rss-tag-icon" title="RSS"></a>
+                            <div class="art-footer-text">
+                                <p>Copyright © E2011. Kelompok cewek cewek keci</p>
+                                                            </div>
+                    <div class="cleared"></div>
+                </div>
+            </div>
+    		<div class="cleared"></div>
+        </div>
+    </div>
+    <div class="cleared"></div>
+
+<?php
+$html = "";
+$url = "http://unsil.ac.id/?feed=rss2";
+$xml = simplexml_load_file($url);
+ 
+for($i = 0; $i < 5; $i++){
+ 
+    $title = $xml->channel->item[$i]->title;
+    $link = $xml->channel->item[$i]->link;
+    $description = $xml->channel->item[$i]->description;
+    $pubDate = $xml->channel->item[$i]->pubDate;
+ 
+    $html .= "<a href='$link'><h3>$title</h3></a>";
+    $html .= "$description";
+    $html .= "<br />$pubDate<hr />";
+}
+echo $html;
+?>
+
+      <p class="art-page-footer"><a href="http://www.2createawebsite.com/artisteer">Website Template created with Cewek Cewek Keci</a>.</p>
+</div>
+
+</body>
+</html>
